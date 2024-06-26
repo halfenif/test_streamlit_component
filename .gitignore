@@ -1,0 +1,5 @@
+pyvenv.cfg
+venv
+my_component/__pycache__
+my_component/frontend/build
+my_component/frontend/node_modules
