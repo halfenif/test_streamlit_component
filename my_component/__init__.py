@@ -3,7 +3,8 @@ import os
 
 _component_func = components.declare_component(
     "my_component",
-    # path=os.path.join(os.path.dirname(os.path.abspath(__file__)), "frontend"),
+    # Build된 Static을 어떻게 연결할 것인가에 대한 방법은 더 연구가 필요함.
+    # path=os.path.join(os.path.dirname(os.path.abspath(__file__)), "frontend/build"),
     url="http://localhost:3000"
 )
 
