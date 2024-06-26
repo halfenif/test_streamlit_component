@@ -1,5 +1,7 @@
 # test_streamlit_component
 
+![](doc/screen.01.png)
+
 ## 목적
 - Streamlit에서 custom component를 만든다
 
