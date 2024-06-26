@@ -8,7 +8,7 @@
 ## Install
 ### clone
 ```bash
-git clone 
+git clone https://github.com/halfenif/test_streamlit_component.git
 ```
 
 ### Python Venv
